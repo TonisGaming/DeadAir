@@ -7,11 +7,13 @@ Mainly I made this as a mod for myself, as I am a huge Metro fan and the gas mas
 
 Something to take into account, this will probably stay in a "beta" state for a while, as this is quite experimental for TLD I feel, and I'm honestly surprised I even got it to function as much as I did. I will keep maintaining this and improving on it, as much as I can, with the hope of getting a nice 1.0 future in the future.
 
+## **IMPORTANT** 
+The filters drain in **REAL TIME**, so sleeping and advancing time will not get you killed. This is a Hinterland thing and without it, the mod wouldn't be very fun.
 ## Changelog
 
 **BETA 1**
 
-* **IMPORTANT** The filters drain in **REAL TIME**, so sleeping and advancing time will not get you killed. This is a Hinterland thing and without it, the mod wouldn't be very fun.
+
 * Added the risk of chemical contamination everywhere on Great Bear, some places better, others worse. (Currently, outside is 10 minutes, inside is 20 minutes, prepper bunkers should be completely safe and the Cinder Hills Mine is 75 seconds. The Cinder Hills contamination is to test and see how having locations with specific dangers could work.)
 * You now spawn with a respirator, 2 canisters and an improvised filter
 * Added the ability to create an improvised filter. (Currently it is half as good as the normal canister)
@@ -24,6 +26,6 @@ Something to take into account, this will probably stay in a "beta" state for a 
 * The improvised filter sometimes just says, you know what, I'm not a filter anymore. This seems to happen randomly?
 * The ingame developer console gets spammed, no clue what it means, but it doesn't seem to break anything, just annoying
 
-  #
+#
 
-  As always, if you find any bugs or have ideas, let me know. This will probably be an absolute bug fest and I'll be amazed if I ever manage to "finish" it
+As always, if you find any bugs or have ideas, let me know. This will probably be an absolute bug fest and I'll be amazed if I ever manage to "finish" it
