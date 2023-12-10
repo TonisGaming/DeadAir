@@ -1,8 +1,10 @@
 {
   "GAMEPLAY_ImprovisedFilter": {
-    "English": "Improvised Filter"
+    "English": "Improvised Filter",
+    "Turkish": "El Yapımı Filtre"
   },
   "GAMEPLAY_ImprovisedFilterDescription": {
-    "English": "An improvised filter that has been scraped together from recycled cans. Looks rough, but it should let you catch your breath for a bit."
+    "English": "An improvised filter that has been scraped together from recycled cans. Looks rough, but it should let you catch your breath for a bit.",
+    "Turkish": "Geri dönüştürülmüş teneke kutulardan bir araya getirilmiş doğaçlama bir filtre. Kaba görünüyor ama biraz nefes almanızı sağlayacaktır."
   }
 }
