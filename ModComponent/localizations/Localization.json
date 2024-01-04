@@ -1,8 +1,10 @@
 {
   "GAMEPLAY_ImprovisedFilter": {
-    "English": "Improvised Filter"
+    "English": "Improvised Filter",
+    "Italian": "Filtro Improvvisato"
   },
   "GAMEPLAY_ImprovisedFilterDescription": {
-    "English": "An improvised filter that has been scraped together from recycled cans. Looks rough, but it should let you catch your breath for a bit."
+    "English": "An improvised filter that has been scraped together from recycled cans. Looks rough, but it should let you catch your breath for a bit.",
+    "Italian": "Un filtro improvvisato che è stato raschiato insieme con delle lattine riciclate. Sembra ruvido, ma dovrebbe permetterti di riprendere il fiato per un po'."
   }
 }
