@@ -1,3 +1,5 @@
+# This mod and any other The Long Dark mod made by me (TonisGaming) has been discontinued
+
 # Dead Air
 The chemical contamination from the Langston Mine has in some inconceivable way managed to spread across the entirety of Great Bear, now nowhere is safe from burnt lungs and filtered air. Use your time wisely and don't underestimate your amount of quality air. ***IT IS HIGHLY SUGGESTED TO ONLY USE THIS ON NEW SAVES***
 
